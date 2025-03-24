@@ -12,14 +12,14 @@ export default function Home() {
       <Hero />
       
       <div className="text-center mb-0 mt-7">
-        <h1 className="text-xl font-bold">Skills<span className="text-primary">.</span></h1>
+        <h1 className="text-2xl font-bold">Skills<span className="text-primary">.</span></h1>
         <p className='text-xs'>Some of the skills I developed<br /> through my programming journey<span className="text-primary">.</span></p>
       </div>
       
       <Skills />
       
       <div className="text-center mb-5">
-        <h1 className="text-xl font-bold">Projects<span className="text-primary">.</span></h1>
+        <h1 className="text-2xl font-bold">Projects<span className="text-primary">.</span></h1>
         <p className='text-xs'>Some of the projects I built<br /> along the way<span className="text-primary">.</span></p>
       </div>
       
